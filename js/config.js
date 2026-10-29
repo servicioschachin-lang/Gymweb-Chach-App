@@ -8,16 +8,16 @@ export const CONFIG = {
   STORE_KEY: 'creaweb_estado_v1',
   RESERVADOS: ['www', 'admin', 'mail', 'correo', 'ftp', 'api', 'app', 'panel', 'creaweb', 'soporte', 'ayuda', 'test'],
   TEMPLATES: [
-    { nombre: 'Plantilla 01', url: 'plantillas/01-glasmorfismo-landing.html' },
-    { nombre: 'Plantilla 02', url: 'plantillas/02-neumorfismo-multipage.html' },
-    { nombre: 'Plantilla 03', url: 'plantillas/05-minimalismo-landing.html' },
-    { nombre: 'Plantilla 04', url: 'plantillas/04-brutalismo-multipage.html' },
-    { nombre: 'Plantilla 05', url: 'plantillas/03-claymorfismo-multipage.html' },
-    { nombre: 'Plantilla 06', url: 'plantillas/01-glasmorfismo-multipage.html' },
-    { nombre: 'Plantilla 07', url: 'plantillas/02-neumorfismo-landing.html' },
-    { nombre: 'Plantilla 08', url: 'plantillas/05-minimalismo-multipage.html' },
-    { nombre: 'Plantilla 09', url: 'plantillas/04-brutalismo-landing.html' },
-    { nombre: 'Plantilla 10', url: 'plantillas/03-claymorfismo-landing.html' },
+    { nombre: 'Plantilla 01', url: 'plantillas/landing-glass.html' },
+    { nombre: 'Plantilla 02', url: 'plantillas/multipage-neo.html' },
+    { nombre: 'Plantilla 03', url: 'plantillas/landing-minimal.html' },
+    { nombre: 'Plantilla 04', url: 'plantillas/multipage-brutal.html' },
+    { nombre: 'Plantilla 05', url: 'plantillas/landing-clay.html' },
+    { nombre: 'Plantilla 06', url: 'plantillas/multipage-glass.html' },
+    { nombre: 'Plantilla 07', url: 'plantillas/landing-neo.html' },
+    { nombre: 'Plantilla 08', url: 'plantillas/multipage-minimal.html' },
+    { nombre: 'Plantilla 09', url: 'plantillas/landing-brutal.html' },
+    { nombre: 'Plantilla 10', url: 'plantillas/multipage-clay.html' },
   ]
 };
 
